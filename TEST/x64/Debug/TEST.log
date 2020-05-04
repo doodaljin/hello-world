@@ -1,0 +1,11 @@
+﻿  QInt.cpp
+E:\KTMT\TEST\QInt.cpp(5,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\KTMT\TEST\QInt.cpp(48,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\KTMT\TEST\QInt.cpp(61,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\KTMT\TEST\QInt.cpp(135,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\KTMT\TEST\QInt.cpp(165,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\KTMT\TEST\QInt.cpp(198,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\KTMT\TEST\QInt.cpp(230,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  TEST.vcxproj -> E:\KTMT\TEST\x64\Debug\TEST.exe
